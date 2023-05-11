@@ -6,7 +6,7 @@ public class ArrayGetRowSum {
 	
 
 	static int[] getRowSum(int arr[][]) {
-
+// change in b1
 		int i, j, sum = 0;
 		int m = 3, n = 3;
 		int op[] = new int[3];
